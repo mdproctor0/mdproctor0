@@ -33,7 +33,7 @@ Security Ops      │ DISA STIGs · Threat Hunting · KQL · Vulnerability Manag
 
 ## Projects
 
-### ☁️ Azure Infrastructure
+### [☁️ Azure Infrastructure](https://github.com/mdproctor0/az104-labs/blob/main/README.md)
 
 | Repository | What It Builds | Services |
 |---|---|---|
