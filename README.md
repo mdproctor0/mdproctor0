@@ -100,7 +100,7 @@ Security Ops      │ DISA STIGs · Threat Hunting · KQL · Vulnerability Manag
 |---|---|---|
 | AZ-900 Azure Fundamentals | Microsoft | ✅ Certified |
 | CompTIA Security+ CE | CompTIA | ✅ Certified |
-| AZ-104 Azure Administrator | Microsoft | 🔄 June 2026 |
+| AZ-104 Azure Administrator | Microsoft | 🔄 July 2026 |
 
 ---
 
